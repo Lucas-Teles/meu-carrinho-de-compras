@@ -1,0 +1,13 @@
+{
+  "name": "meu-carrinho",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Teles",
+  "license": "ISC",
+  "description": "Meu carrinho de compras"
+}
